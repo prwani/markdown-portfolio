@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Technology*
+_Tensorflow , PyTorch_
+
+**Business**
+__Banking domain expertise__
+
+_**Overall Data Geek** _
